@@ -17,3 +17,8 @@ body {
 .card {
     height: 100%;
 }
+
+.btn btn-primary btn-lg {
+    background-color: red;
+}
+
